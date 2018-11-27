@@ -3,8 +3,8 @@ class Eb2 < Formula
 
   desc "Elastic Beanstalk ssh using the internal IP"
   homepage "https://github.com/jonathortense/homebrew-eb2"
-  url "https://files.pythonhosted.org/packages/4a/19/034a6175115d493a544e3032ed1fcccfaa04c61a627cd436b888498c5bb0/eb2-0.0.1.tar.gz"
-  sha256 "7426f6896ae318889b8bd786801838cf25b2a9b863b06ea8e9e137cbd13803f1"
+  url "https://files.pythonhosted.org/packages/eb/5e/80d6313eedfbc0c3478e7ae4caa196be47f0db6017fd5fa7704d6a4a35a9/eb2-0.0.2.tar.gz"
+  sha256 "17334accfd6396b81d4189bf2df86b2e6c3e0535dd0f320ec41e817b12ce9ef5"
 
   bottle do
     cellar :any_skip_relocation

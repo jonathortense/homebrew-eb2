@@ -4,7 +4,7 @@ import setuptools
 
 setuptools.setup(
 	name='eb2',
-	version='0.0.1',
+	version='0.0.2',
 	scripts=['eb2'],
 	author="Jonathas Hortense",
 	author_email="jonathas.hortense@daliaresearch.com",
