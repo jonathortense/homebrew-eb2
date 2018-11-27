@@ -1,0 +1,4 @@
+build/
+dist/
+eb2.egg-info/
+*.pyc
